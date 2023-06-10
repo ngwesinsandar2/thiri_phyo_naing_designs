@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inder&family=Kalam:wght@300;400;700&family=Limelight&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -6,10 +6,11 @@
 
 :root {
   --purple: #5E376D;
+  --purple-tint: #C197D2;
   --milk: #F3EAC0;
 }
 
 html, body {
   max-width: 100%;
-  overflow-x: hidden;
+  overflow: hidden;
 }
