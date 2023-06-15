@@ -1,7 +1,7 @@
 I wanted to code Thiri Phyo Naing's designs and I coded it.
 
 ## Here is the figma link of her designs
-
+https://www.figma.com/file/pPl7H9CfULM9v6ajWBNwVo/My-Babies?type=design&node-id=0-1&t=2QRsx4bSq6Bz2dAI-0
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
